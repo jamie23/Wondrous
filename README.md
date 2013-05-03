@@ -8,6 +8,6 @@ It can be found at the bottom of page 400 in the 20th anniversary edition, the c
 
 The property:
 	1) Begin with a number
-	2) If it is odd, triple it and add 1.
-		if it is even, half it.
-	3) Repeat this until the number reaches 1, if it reaches 1 a number is wondrous, if not it is Unwondrous.
+\n	2) If it is odd, triple it and add 1.
+\n		if it is even, half it.
+\n	3) Repeat this until the number reaches 1, if it reaches 1 a number is wondrous, if not it is Unwondrous.
