@@ -3,7 +3,6 @@
 using std::cout;
 using std::cin;
 using std::endl;
-using std::endl;
 
 void recWonder(int x, int count){
 
@@ -42,4 +41,6 @@ int main(){
 	int number = 0;
 	cout << "Enter a number: ";
 	cin >> number; 
-	recWonder(number); return 0; }
+	recWonder(number); 
+	return 0; 
+}
